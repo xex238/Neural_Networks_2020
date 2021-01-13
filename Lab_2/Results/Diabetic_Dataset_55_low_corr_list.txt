@@ -1,0 +1,7 @@
+Список столбцов со слабой корреляцией:
+['time_in_hospital', 'admission_source_id']
+['number_outpatient', 'discharge_disposition_id']
+['number_outpatient', 'time_in_hospital']
+['number_outpatient', 'num_lab_procedures']
+['number_emergency', 'time_in_hospital']
+['number_emergency', 'num_lab_procedures']

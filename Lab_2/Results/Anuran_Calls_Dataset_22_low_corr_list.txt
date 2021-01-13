@@ -1,0 +1,8 @@
+Список столбцов со слабой корреляцией:
+['MFCCs_ 9', 'MFCCs_ 1']
+['MFCCs_14', 'MFCCs_ 2']
+['MFCCs_15', 'MFCCs_10']
+['MFCCs_18', 'MFCCs_ 1']
+['MFCCs_21', 'MFCCs_15']
+['MFCCs_22', 'MFCCs_10']
+['RecordID', 'MFCCs_18']
