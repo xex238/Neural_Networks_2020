@@ -1,3 +1,0 @@
-https://github.com/JYORAM9/Avila-Dataset/blob/master/avila.txt - Датасет Алёны
-https://datahub.io/machine-learning/iris#resource-iris - Ирисы Фишера
-http://networkrepository.com/data-banknote-authentication.php - Датасет Ромы
